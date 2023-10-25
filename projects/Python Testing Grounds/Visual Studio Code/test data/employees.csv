@@ -1,0 +1,21 @@
+﻿id,fname,sname,department,age,wage,sex
+1,Abbey,Taylors,IT,22,,F
+2,Samuel,James,IT,22,20000,M
+3,Mike,Mortimer,Production,30,30000,M
+4,Sean,Weaver,IT,32,30000,M
+5,Beth,Newgate,Production,26,35000,F
+6,Hannah,Walker,QA,25,22000,F
+7,Hannah,Stanford,QA,23,,F
+8,Elmo,Gates,Art,30,25000,M
+9,Freddy,Bedford,IT,27,25000,M
+10,Theo,van Dieppen,Production,40,40000,M
+11,Max,Hamilton,Management,32,60000,M
+12,Elliott,Vincent,Management,44,,F
+13,Lee,Jones,Art,34,20000,F
+14,Johnny,Jones,Art,43,20000,M
+15,Stanley,Walker,Art,32,20000,M
+16,Walter,Shaw,IT,28,22000,M
+17,Bob,Fisher,IT,28,25000,M
+18,Bethany,van Dyke,IT,25,25000,F
+19,Beverley,Marsh,Management,38,65000,F
+20,Chris,Hansen,Production,30,39000,M
